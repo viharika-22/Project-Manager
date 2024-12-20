@@ -6,6 +6,6 @@ export default function Tasks(){
         <NewTask/>
         <p className="text-stone-600 my-4">This project does not have any project.</p>
 
-        <ul></ul>
+        <ul>  </ul>
     </section>
 }
